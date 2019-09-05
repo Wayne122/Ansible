@@ -6,6 +6,8 @@ Launch an instance of EC2 on AWS and keep the private key safe.
 Add an available inbound connection of HTTP (80 port).
 Install Ansible with apt. Execute the playbook.
 
+The server is currently running at http://54.196.244.234/
+
 Reference:
 
 https://www.serverlab.ca/tutorials/dev-ops/automation/how-to-use-ansible-to-deploy-your-website/
