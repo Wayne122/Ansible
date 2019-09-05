@@ -1,0 +1,5 @@
+[all:vars]
+ansible_user=ubuntu
+
+[appserver]
+54.196.244.234
