@@ -7,8 +7,6 @@ Add an available inbound connection of HTTP (80 port).
 Update and install python-crypto python-keyczar with apt at webserver.
 Install Ansible with apt at local. Then execute the playbook.
 
-The server is currently running at http://18.212.220.7/
-
 Reference:
 
 https://www.serverlab.ca/tutorials/dev-ops/automation/how-to-use-ansible-to-deploy-your-website/
